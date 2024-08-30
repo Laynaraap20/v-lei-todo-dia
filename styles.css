@@ -1,0 +1,22 @@
+body{
+ background:black;
+ color: purple
+}
+
+header{
+    border: solid 2px pink;
+    font-size: 30px;
+    color: pi
+    padding: 20px;
+    display: flex;
+     justify-content: center;
+}
+
+.titulo {
+    
+}
+
+img{
+    height: 200 px;
+    margin: 20 px;
+}
